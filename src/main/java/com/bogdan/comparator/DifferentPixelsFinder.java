@@ -51,7 +51,7 @@ public class DifferentPixelsFinder {
 
     private boolean arePixelsDifferent(Color rgbColor1, Color rgbColor2) {
 
-        if (rgbColor1 == rgbColor2) {
+        if (rgbColor1.equals(rgbColor2)) {
             return false;
         }
         
