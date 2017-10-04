@@ -1,3 +1,3 @@
 # ImageComparator
 
-This compares two images and findes areas wich are different
+This application compares two images and finds areas wich are different
